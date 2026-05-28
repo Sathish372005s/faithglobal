@@ -13,7 +13,7 @@ export default function AboutPage() {
             Our History
           </span>
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-black text-white mt-4 font-poppins">
-            About Faith Globals
+            About Faith Global
           </h1>
           <p className="text-gray-300 text-xs sm:text-sm mt-2 max-w-md mx-auto">
             Reliable customs compliance and dedicated freight forwarding since 2017.
@@ -30,7 +30,7 @@ export default function AboutPage() {
             <div className="lg:col-span-5 relative h-[380px] sm:h-[440px] rounded-2xl overflow-hidden border border-gray-100 shadow-xl" data-aos="zoom-in">
               <Image
                 src="https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=800&q=80"
-                alt="Faith Globals Operations"
+                alt="Faith Global Operations"
                 fill
                 sizes="(max-width: 1024px) 100vw, 40vw"
                 className="object-cover"

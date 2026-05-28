@@ -16,7 +16,7 @@ export default function Footer() {
               />
               <div className="flex flex-col">
                 <span className="text-lg font-extrabold tracking-wider font-poppins text-white leading-none">
-                  FAITH GLOBALS
+                  FAITH GLOBAL
                 </span>
                 <span className="text-[9px] tracking-[0.2em] font-medium text-orange-accent uppercase mt-0.5">
                   LOGISTICS SERVICE
@@ -27,7 +27,7 @@ export default function Footer() {
               State-of-the-art customs broker & international freight forwarder. Dedicated to compliance and on-time transit.
             </p>
             <div className="text-xs font-semibold italic text-orange-accent">
-              &ldquo;Going An Extra Mile For You&rdquo;
+              &ldquo;Delivering Beyond Borders&rdquo;
             </div>
           </div>
 

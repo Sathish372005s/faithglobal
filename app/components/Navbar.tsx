@@ -28,8 +28,8 @@ export default function Navbar() {
             <div className="flex items-center gap-3">
               <img src="/images/logo-global.jpeg" alt="Global Freight Solutions Logo" className="h-10 w-10 rounded-full object-cover border-2 border-white/20 shadow-sm" />
               <div className="flex flex-col">
-                <span className="text-sm font-semibold text-white">FAITH GLOBALS</span>
-                <span className="text-[7px] text-gray-400 uppercase tracking-wide md:text-[10px] lg:text-[8px]">Going An Extra Mile For You</span>              
+                <span className="text-sm font-semibold text-white">FAITH GLOBAL</span>
+                <span className="text-[7px] text-gray-400 uppercase tracking-wide md:text-[10px] lg:text-[8px]"> Delivering Beyond Borders</span>              
                 </div>
             </div>
           </div>

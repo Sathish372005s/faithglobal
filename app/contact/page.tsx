@@ -109,7 +109,7 @@ export default function ContactPage() {
               <div className="bg-navy text-white p-6 rounded-2xl border border-navy-light/40 relative overflow-hidden">
                 <div className="absolute top-0 right-0 w-24 h-24 bg-orange-accent/10 rounded-full blur-xl pointer-events-none" />
                 <p className="text-orange-accent text-xs font-bold uppercase tracking-widest mb-1">Company Motto</p>
-                <p className="text-lg font-bold font-poppins italic">&ldquo;Going An Extra Mile For You&rdquo;</p>
+                <p className="text-lg font-bold font-poppins italic">&ldquo;Delivering Beyond Borders&rdquo;</p>
               </div>
             </div>
 
