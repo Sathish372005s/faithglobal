@@ -24,15 +24,15 @@ export default function GlobalMap() {
         </div>
 
         {/* Map Image */}
-        <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden">
-          <Image
-            src="/images/india-map.jpg"
-            alt="India Logistics Map"
-            fill
-            priority
-            className="object-cover"
-          />
-        </div>
+        <div  className="relative w-full rounded-2xl overflow-hidden">
+        <Image
+    src="/images/india-map.jpeg"
+    alt="India Logistics Map"
+    width={1600}
+    height={900}
+    className="w-full h-auto object-contain"
+  />
+</div>
 
         {/* Stats */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-6">
@@ -76,14 +76,15 @@ export default function GlobalMap() {
         </div>
 
         {/* Map Image */}
-        <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden">
-          <Image
-            src="/images/world-map.jpg"
-            alt="World Logistics Map"
-            fill
-            className="object-cover"
-          />
-        </div>
+        <div className="relative w-full rounded-2xl overflow-hidden">
+  <Image
+    src="/images/world.jpeg"
+    alt="World Logistics Map"
+    width={1600}
+    height={900}
+    className="w-full h-auto object-contain"
+  />
+</div>
 
         {/* Stats */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-6">
