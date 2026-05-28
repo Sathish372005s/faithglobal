@@ -78,7 +78,7 @@ export default function GlobalMap() {
         {/* Map Image */}
         <div className="relative w-full rounded-2xl overflow-hidden">
   <Image
-    src="/images/world.jpeg"
+    src="/images/worldmap.jpeg"
     alt="World Logistics Map"
     width={1600}
     height={900}
