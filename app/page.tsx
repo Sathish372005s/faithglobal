@@ -17,6 +17,7 @@ import {
   FaTruck,
   FaWarehouse
 } from "react-icons/fa";
+import GlobalMap from "./components/GlobalMap";
 
 export default function Home() {
   const services = [
@@ -302,7 +303,8 @@ export default function Home() {
             </div>
 
           </div>
-
+          <br/>
+          <GlobalMap/>
         </div>
       </section>
 
