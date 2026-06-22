@@ -61,11 +61,11 @@ export default function Footer() {
             <ul className="space-y-2 text-xs text-gray-300 leading-relaxed">
               <li>
                 <span className="font-bold text-white block">Email Direct:</span>
-                <a href="mailto:logisticsfaithglobal@gmail.com" className="hover:text-white text-orange-accent">logisticsfaithglobal@gmail.com</a>
+                <a href="mailto:Info@faithgloballogistics.in" className="hover:text-white text-orange-accent">Info@faithgloballogistics.in</a>
               </li>
               <li>
                 <span className="font-bold text-white block">Hotline support:</span>
-                <a href="tel:8368351578" className="hover:text-white">+91 8368351578</a>
+                <a href="tel:8796636150" className="hover:text-white">+91 8796636150</a>
               </li>
               <li>
                 <span className="font-bold text-white block">Corporate HQ:</span>

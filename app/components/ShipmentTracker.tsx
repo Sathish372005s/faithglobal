@@ -56,7 +56,7 @@ export default function ShipmentTracker() {
           </div>
           <input
             type="text"
-            placeholder="e.g., AG-8368351578 or AWB-92849"
+            placeholder="e.g., AG-8796636150 or AWB-92849"
             id="tracking_id_input"
             value={trackingId}
             onChange={(e) => setTrackingId(e.target.value)}

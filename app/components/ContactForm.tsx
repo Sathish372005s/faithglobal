@@ -139,7 +139,7 @@ export default function ContactForm() {
               required
               value={formData.phone}
               onChange={handleChange}
-              placeholder="+91 8368351578"
+              placeholder="+91 8796636150"
               className="w-full px-4 py-3 border border-gray-200 rounded-xl focus:border-navy focus:outline-none text-gray-800 text-sm font-medium transition-colors"
             />
           </div>

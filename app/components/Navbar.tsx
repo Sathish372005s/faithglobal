@@ -51,7 +51,7 @@ export default function Navbar() {
           {/* Action / Phone Info */}
           <div className="hidden lg:flex items-center gap-6">
             <a
-              href="tel:8368351578"
+              href="tel:8796636150"
               className="flex items-center gap-2 text-sm text-gray-300 hover:text-orange-accent transition-colors"
             >
               <div className="w-9 h-9 rounded-full bg-navy-light flex items-center justify-center text-orange-accent">
@@ -59,7 +59,7 @@ export default function Navbar() {
               </div>
               <div className="flex flex-col text-left">
                 <span className="text-[10px] text-gray-400 uppercase tracking-wider">Call Experts</span>
-                <span className="font-semibold text-white">+91 8368351578</span>
+                <span className="font-semibold text-white">+91 8796636150</span>
               </div>
             </a>
             <a
@@ -73,7 +73,7 @@ export default function Navbar() {
           {/* Mobile menu button */}
           <div className="md:hidden flex items-center gap-3">
             <a
-              href="tel:8368351578"
+              href="tel:8796636150"
               className="w-10 h-10 rounded-full bg-navy-light flex items-center justify-center text-orange-accent hover:bg-navy-light/80 transition-colors"
             >
               <FiPhone className="text-lg" />
@@ -115,13 +115,13 @@ export default function Navbar() {
 
           <div className="flex flex-col space-y-4">
             <a
-              href="tel:8368351578"
+              href="tel:8796636150"
               className="flex items-center gap-3 p-4 rounded-xl bg-navy-light/50 border border-navy-light/40 text-left"
             >
               <FiPhone className="text-xl text-orange-accent" />
               <div>
                 <p className="text-xs text-gray-400 uppercase tracking-wider">Direct Hotline</p>
-                <p className="font-semibold text-white">+91 8368351578</p>
+                <p className="font-semibold text-white">+91 8796636150</p>
               </div>
             </a>
             <a

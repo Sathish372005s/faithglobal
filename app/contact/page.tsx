@@ -50,7 +50,7 @@ export default function ContactPage() {
                 
                 {/* WhatsApp */}
                 <a
-                  href="https://wa.me/8368351578"
+                  href="https://wa.me/8796636150"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-4 p-4 rounded-xl border border-gray-100 hover:border-orange-accent/30 hover:bg-orange-accent/5 transition-all group"
@@ -60,13 +60,13 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <span className="text-[10px] text-gray-400 uppercase tracking-widest font-semibold block">Chat Live</span>
-                    <span className="text-sm font-bold text-navy group-hover:text-orange-accent transition-colors">+91 8368351578</span>
+                    <span className="text-sm font-bold text-navy group-hover:text-orange-accent transition-colors">+91 8796636150</span>
                   </div>
                 </a>
 
                 {/* Phone */}
                 <a
-                  href="tel:8368351578"
+                  href="tel:8796636150"
                   className="flex items-center gap-4 p-4 rounded-xl border border-gray-100 hover:border-orange-accent/30 hover:bg-orange-accent/5 transition-all group"
                 >
                   <div className="w-12 h-12 rounded-xl bg-navy/5 text-navy flex items-center justify-center text-lg flex-shrink-0 group-hover:bg-navy group-hover:text-white transition-colors">
@@ -74,13 +74,13 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <span className="text-[10px] text-gray-400 uppercase tracking-widest font-semibold block">Direct Hotline</span>
-                    <span className="text-sm font-bold text-navy group-hover:text-orange-accent transition-colors">+91 8368351578</span>
+                    <span className="text-sm font-bold text-navy group-hover:text-orange-accent transition-colors">+91 8796636150</span>
                   </div>
                 </a>
 
                 {/* Email */}
                 <a
-                  href="mailto:logisticsfaithglobal@gmail.com"
+                  href="mailto:Info@faithgloballogistics.in"
                   className="flex items-center gap-4 p-4 rounded-xl border border-gray-100 hover:border-orange-accent/30 hover:bg-orange-accent/5 transition-all group"
                 >
                   <div className="w-12 h-12 rounded-xl bg-navy/5 text-navy flex items-center justify-center text-lg flex-shrink-0 group-hover:bg-navy group-hover:text-white transition-colors">
@@ -88,7 +88,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <span className="text-[10px] text-gray-400 uppercase tracking-widest font-semibold block">Email Support</span>
-                    <span className="text-sm font-bold text-navy group-hover:text-orange-accent transition-colors">logisticsfaithglobal@gmail.com</span>
+                    <span className="text-sm font-bold text-navy group-hover:text-orange-accent transition-colors">Info@faithgloballogistics.in</span>
                   </div>
                 </a>
 
